@@ -1,0 +1,221 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 9",
+        "price": 549,
+        "stock": 94,
+        "brand": "Apple"
+      },
+      {
+        "id": 2,
+        "name": "iPhone X",
+        "price": 899,
+        "stock": 34,
+        "brand": "Apple"
+      },
+      {
+        "id": 3,
+        "name": "Samsung Universe 9",
+        "price": 1249,
+        "stock": 36,
+        "brand": "Samsung"
+      },
+      {
+        "id": 4,
+        "name": "OPPOF19",
+        "price": 280,
+        "stock": 123,
+        "brand": "OPPO"
+      },
+      {
+        "id": 5,
+        "name": "Huawei P30",
+        "price": 499,
+        "stock": 32,
+        "brand": "Huawei"
+      },
+      {
+        "id": 6,
+        "name": "MacBook Pro",
+        "price": 1749,
+        "stock": 83,
+        "brand": "Apple"
+      },
+      {
+        "id": 7,
+        "name": "Samsung Galaxy Book",
+        "price": 1499,
+        "stock": 50,
+        "brand": "Samsung"
+      },
+      {
+        "id": 8,
+        "name": "Microsoft Surface Laptop 4",
+        "price": 1499,
+        "stock": 68,
+        "brand": "Microsoft Surface"
+      },
+      {
+        "id": 9,
+        "name": "Infinix INBOOK",
+        "price": 1099,
+        "stock": 96,
+        "brand": "Infinix"
+      },
+      {
+        "id": 10,
+        "name": "HP Pavilion 15-DK1056WM",
+        "price": 1099,
+        "stock": 89,
+        "brand": "HP Pavilion"
+      },
+      {
+        "id": 11,
+        "name": "perfume Oil",
+        "price": 13,
+        "stock": 65,
+        "brand": "Impression of Acqua Di Gio"
+      },
+      {
+        "id": 12,
+        "name": "Brown Perfume",
+        "price": 40,
+        "stock": 52,
+        "brand": "Royal_Mirage"
+      },
+      {
+        "id": 13,
+        "name": "Fog Scent Xpressio Perfume",
+        "price": 13,
+        "stock": 61,
+        "brand": "Fog Scent Xpressio"
+      },
+      {
+        "id": 14,
+        "name": "Non-Alcoholic Concentrated Perfume Oil",
+        "price": 120,
+        "stock": 114,
+        "brand": "Al Munakh"
+      },
+      {
+        "id": 15,
+        "name": "Eau De Perfume Spray",
+        "price": 30,
+        "stock": 105,
+        "brand": "Lord - Al-Rehab"
+      },
+      {
+        "id": 16,
+        "name": "Hyaluronic Acid Serum",
+        "price": 19,
+        "stock": 110,
+        "brand": "L'Oreal Paris"
+      },
+      {
+        "id": 17,
+        "name": "Tree Oil 30ml",
+        "price": 12,
+        "stock": 78,
+        "brand": "Hemani Tea"
+      },
+      {
+        "id": 18,
+        "name": "Oil Free Moisturizer 100ml",
+        "price": 40,
+        "stock": 88,
+        "brand": "Dermive"
+      },
+      {
+        "id": 19,
+        "name": "Skin Beauty Serum.",
+        "price": 46,
+        "stock": 54,
+        "brand": "ROREC White Rice"
+      },
+      {
+        "id": 20,
+        "name": "Freckle Treatment Cream- 15gm",
+        "price": 70,
+        "stock": 140,
+        "brand": "Fair & Clear"
+      },
+      {
+        "id": 21,
+        "name": "- Daal Masoor 500 grams",
+        "price": 20,
+        "stock": 133,
+        "brand": "Saaf & Khaas"
+      },
+      {
+        "id": 22,
+        "name": "Elbow Macaroni - 400 gm",
+        "price": 14,
+        "stock": 146,
+        "brand": "Bake Parlor Big"
+      },
+      {
+        "id": 23,
+        "name": "Orange Essence Food Flavou",
+        "price": 14,
+        "stock": 26,
+        "brand": "Baking Food Items"
+      },
+      {
+        "id": 24,
+        "name": "cereals muesli fruit nuts",
+        "price": 46,
+        "stock": 113,
+        "brand": "fauji"
+      },
+      {
+        "id": 25,
+        "name": "Gulab Powder 50 Gram",
+        "price": 70,
+        "stock": 47,
+        "brand": "Dry Rose"
+      },
+      {
+        "id": 26,
+        "name": "Plant Hanger For Home",
+        "price": 41,
+        "stock": 131,
+        "brand": "Boho Decor"
+      },
+      {
+        "id": 27,
+        "name": "Flying Wooden Bird",
+        "price": 51,
+        "stock": 17,
+        "brand": "Flying Wooden"
+      },
+      {
+        "id": 28,
+        "name": "3D Embellishment Art Lamp",
+        "price": 20,
+        "stock": 54,
+        "brand": "LED Lights"
+      },
+      {
+        "id": 29,
+        "name": "Handcraft Chinese style",
+        "price": 60,
+        "stock": 7,
+        "brand": "luxury palace"
+      },
+      {
+        "id": 30,
+        "name": "Key Holder",
+        "price": 30,
+        "stock": 54,
+        "brand": "Golden"
+      },
+      {
+        "id": 31,
+        "name": "Chocochip Cookies",
+        "stock": 12, 
+        "price": 4.50,
+        "brand": "Krispis"
+      }
+    ]
+}
